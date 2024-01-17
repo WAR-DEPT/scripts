@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LineageOS/android_device_lge_h830" path="device/lge/h830" remote="github" revision="lineage-20" />
-  <project name="LineageOS/android_device_lge_h850" path="device/lge/h850" remote="github" revision="lineage-20" />
-  <project name="LineageOS/android_device_lge_rs988" path="device/lge/rs988" remote="github" revision="lineage-20" />
-  <project name="LineageOS/android_device_lge_g5-common" path="device/lge/g5-common" remote="github" revision="lineage-20" />
-  <project name="LineageOS/android_device_lge_g6-common" path="device/lge/g6-common" remote="github" revision="lineage-20" />
+	<remote name="gitlab" fetch="https://gitlab.com" />
+	<remote name="gh" fetch="https://github.com" />		
+	
+	
+	<!-- Trees -->
+	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote=gh revision="tiramisu" />
+	<project path="device/xiaomi/sm6250-common" name="WAR-DEPT/device_xiaomi_sm6250-common" remote=gh revision="tiramisu" />
+	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote=gh revision="main" />
+	<project path="vendor/xiaomi/sm6250-common" name="WAR-DEPT/vendor_xiaomi_sm6250-common" remote=gh revision="main" />
+	<project path="kernel/xiaomi/sm6250" name="clarencelol/kernel_xiaomi_sm6250" remote=gh revision="kenesis" /> 
 
-  <project name="LineageOS/android_hardware_lge" path="hardware/lge" remote="github" revision="lineage-20" />
-  <project name="TheMuppets/proprietary_vendor_lge_h830" path="vendor/lge/h830" remote="github" revision="lineage-20" />
-  <project name="TheMuppets/proprietary_vendor_lge_h850" path="vendor/lge/h850" remote="github" revision="lineage-20" />
-  <project name="TheMuppets/proprietary_vendor_lge_rs988" path="vendor/lge/rs988" remote="github" revision="lineage-20" />
-  <project name="TheMuppets/proprietary_vendor_lge_h870" path="vendor/lge/h870" remote="github" revision="lineage-20" />
-  <project name="TheMuppets/proprietary_vendor_lge_h872" path="vendor/lge/h872" remote="github" revision="lineage-20" />
-  <project name="TheMuppets/proprietary_vendor_lge_us997" path="vendor/lge/us997" remote="github" revision="lineage-20" />
-  <project name="TheMuppets/proprietary_vendor_lge_msm8996-common" path="vendor/lge/msm8996-common" remote="github" revision="lineage-20" />
-  <project name="TheMuppets/proprietary_vendor_lge_g5-common" path="vendor/lge/g5-common" remote="github" revision="lineage-20" />
-  <project name="TheMuppets/proprietary_vendor_lge_g6-common" path="vendor/lge/g6-common" remote="github" revision="lineage-20" />
+	<!-- Hardware  -->
+	<project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote=gh revision="lineage-20" />
 
-  <project name="xc112lg/android_device_lge_h870" path="device/lge/h870" remote="github" revision="derp" />
-  <project name="xc112lg/android_device_lge_h872" path="device/lge/h872" remote="github" revision="derp" />
-  <project name="xc112lg/android_device_lge_us997" path="device/lge/us997" remote="github" revision="derp" />
-  <project name="xc112lg/android_device_lge_msm8996-common" path="device/lge/msm8996-common" remote="github" revision="derp" />
-  <project name="xc112lg/android_kernel_lge_msm8996" path="kernel/lge/msm8996" remote="github" revision="patch-1" />
-
-
-</manifest>
+	<!-- clang -->
+	<project path="prebuilts/clang/host/linux-x86/clang-r437112b" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r498229b" remote="gitlab" revision="13.0" />
+</manifest> 
