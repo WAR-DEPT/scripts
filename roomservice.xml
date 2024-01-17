@@ -5,14 +5,14 @@
 	
 	
 	<!-- Trees -->
-	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote=gh revision="tiramisu" />
-	<project path="device/xiaomi/sm6250-common" name="WAR-DEPT/device_xiaomi_sm6250-common" remote=gh revision="tiramisu" />
+	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote="gh" revision="tiramisu" />
+	<project path="device/xiaomi/sm6250-common" name="WAR-DEPT/device_xiaomi_sm6250-common" remote="gh" revision="tiramisu" />
 	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote=gh revision="main" />
-	<project path="vendor/xiaomi/sm6250-common" name="WAR-DEPT/vendor_xiaomi_sm6250-common" remote=gh revision="main" />
-	<project path="kernel/xiaomi/sm6250" name="clarencelol/kernel_xiaomi_sm6250" remote=gh revision="kenesis" /> 
+	<project path="vendor/xiaomi/sm6250-common" name="WAR-DEPT/vendor_xiaomi_sm6250-common" remote="gh" revision="main" />
+	<project path="kernel/xiaomi/sm6250" name="clarencelol/kernel_xiaomi_sm6250" remote="gh" revision="kenesis" /> 
 
 	<!-- Hardware  -->
-	<project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote=gh revision="lineage-20" />
+	<project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="gh" revision="lineage-20" />
 
 	<!-- clang -->
 	<project path="prebuilts/clang/host/linux-x86/clang-r437112b" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r498229b" remote="gitlab" revision="13.0" />
