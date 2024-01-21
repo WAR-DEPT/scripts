@@ -12,4 +12,4 @@ rm -rf external/libcxx
 source  build/envsetup.sh
 
 lunch afterlife_miatoll-userdebug
-m afterlife 
+m afterlife -j8
