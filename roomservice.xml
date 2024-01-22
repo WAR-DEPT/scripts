@@ -6,7 +6,7 @@
 	
 	<!-- Trees -->
 	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote="gh" revision="afterlife" />
-	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote="gh" revision="afterlife" />
+	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote="gh" revision="tiramisu" />
 	<project path="kernel/xiaomi/miatoll" name="bananadroid-devices/kernel_xiaomi_miatoll" remote="gh" revision="master" /> 
 
 	<!-- clang -->
