@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remote name="gitlab" fetch="https://gitlab.com" />
-	<remote name="gh" fetch="https://github.com" />		
-	
 	
 	<!-- Trees -->
-	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote="gh" revision="afterlife" />
-	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote="gh" revision="afterlife" />
-	<project path="kernel/xiaomi/miatoll" name="bananadroid-devices/kernel_xiaomi_miatoll" remote="gh" revision="master" /> 
+	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote="github" revision="afterlife" />
+	<project path="device/xiaomi/sm6250-common" name="WAR-DEPT/device_xiaomi_sm6250-common" remote="github" revision="afterlife" />
+	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote="github" revision="13" />
+	<project path="vendor/xiaomi/sm6250-common" name="WAR-DEPT/vendor_xiaomi_sm6250-common" remote="github" revision="13" />
+	<project path="kernel/xiaomi/sm6250" name="clarencelol/kernel_xiaomi_sm6250" remote="github" revision="kinesis" /> 
 
+	
 	<!-- clang -->
 	<project path="prebuilts/clang/host/linux-x86/clang-r437112b" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r498229b" remote="gitlab" revision="13.0" />
 
-  
-
 
 </manifest> 
-
