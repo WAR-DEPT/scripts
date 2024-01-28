@@ -5,7 +5,7 @@ rm -rf device/xiaomi/sm6250-common
 rm -rf device/xiaomi/miatoll
 rm -rf vendor/xiaomi/sm6250-common
 rm -rf vendor/xiaomi/miatoll
-
+rm -rf hardware/xiaomi
 
 
 rm out/target/product/*/*.zip
