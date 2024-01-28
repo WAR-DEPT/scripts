@@ -10,5 +10,8 @@
 	<project path="vendor/xiaomi/sm6250-common" name="WAR-DEPT/vendor_xiaomi_sm6250-common" remote="gh" revision="tiramisu" />
 	<project path="kernel/xiaomi/sm6250" name="clarencelol/kernel_xiaomi_sm6250" remote="gh" revision="kinesis" /> 
 
+        <project path="hardware/motorolaDolby" name="userariii/hardware_motorolaDolby" remote="gh" revision="v1.1" /> 
+	
+
 
 </manifest> 
