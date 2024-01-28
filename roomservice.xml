@@ -11,6 +11,8 @@
 	<project path="kernel/xiaomi/sm6250" name="clarencelol/kernel_xiaomi_sm6250" remote="gh" revision="kinesis" /> 
 
         <project path="hardware/motorolaDolby" name="userariii/hardware_motorolaDolby" remote="gh" revision="v1.1" /> 
+
+        <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github" revision="lineage-20" />
 	
 
 
