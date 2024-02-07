@@ -17,6 +17,8 @@
 
 	<project path="vendor/gapps"  name="MindTheGapps/vendor_gapps" remote="gl" revision="upsilon" />
 
+<project path="vendor/xiaomi/miuicamera"  name="userariii/vendor-xiaomi-miuicamera" remote="gl" revision="miuicamera" />
+
 
 </manifest> 
 
