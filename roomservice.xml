@@ -14,8 +14,6 @@
 	<!-- Viper4android  -->
 	<project path="packages/apps/ViPER4AndroidFX" name="TogoFire/packages_apps_ViPER4AndroidFX" remote="gh" revision="v4a" />
 
-        <!-- LMC  -->
-	<project path="vendor/xiaomi/LMC-Camera"  name="userariii/vendor_xiaomi_LMC-Camera" remote="gh" revision="LMC" />
 
 	<project path="vendor/gapps"  name="MindTheGapps/vendor_gapps" remote="gl" revision="upsilon" />
 
