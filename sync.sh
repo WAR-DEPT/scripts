@@ -6,5 +6,5 @@ repo sync -c --no-clone-bundle --no-tags --optimized-fetch --prune --force-sync 
 source  build/envsetup.sh
 
 
-lunch afterlife_miatoll-userdebug
-m afterlife -j8
+lunch droidxui_miatoll-userdebug
+m bacon
