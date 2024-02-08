@@ -4,13 +4,11 @@
 	<remote name="gh" fetch="https://github.com" />
 	
 	<!-- Trees -->
-	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote="gh" revision="tiramasu+" />
-	<project path="device/xiaomi/sm6250-common" name="WAR-DEPT/device_xiaomi_sm6250-common" remote="gh" revision="tiramisu" />
-	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote="gh" revision="tiramisu" />
-	<project path="vendor/xiaomi/sm6250-common" name="WAR-DEPT/vendor_xiaomi_sm6250-common" remote="gh" revision="tiramisu" />
-	<project path="kernel/xiaomi/sm6250" name="clarencelol/kernel_xiaomi_sm6250" remote="gh" revision="kinesis" /> 
+	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote="gh" revision="droidxui" />
+	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote="gh" revision="droidxui" />
+	<project path="kernel/xiaomi/miatoll" name="PixelOS-Devices/kernel_xiaomi_miatoll" remote="gh" revision="fourteen" /> 
 
-        <project path="hardware/motorolaDolby" name="userariii/hardware_motorolaDolby" remote="gh" revision="v1.1" /> 
+       
 
         
 
