@@ -6,7 +6,7 @@
 	<!-- Trees -->
 	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote="gh" revision="droidxui" />
 	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote="gh" revision="14.0" />
- <project path="kernel/xiaomi/miatoll" name="WAR-DEPT/android_kernel_xiaomi_sm6250" remote="gh" revision="14.0" />
+ <project path="kernel/xiaomi/miatoll" name="WAR-DEPT/android_kernel_xiaomi_miatoll" remote="gh" revision="fourteen" />
        
 
         
