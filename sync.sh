@@ -6,4 +6,4 @@ source build/envsetup.sh
 
 
 lunch lineage_miatoll-userdebug
-m ban
+m bacon
