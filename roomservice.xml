@@ -11,10 +11,7 @@
 	<!-- Hardware  -->
         <project path="hardware/sony/timekeep"  name="LineageOS/android_hardware_sony_timekeep" remote="gh" revision="lineage-21" />
 
-	<!-- Viper4android  -->
-	<project path="packages/apps/ViPER4AndroidFX" name="TogoFire/packages_apps_ViPER4AndroidFX" remote="gh" revision="v4a" />
-
-  <project path="vendor/xiaomi/miuicamera" name="userariii/vendor-xiaomi-miuicamera" remote="gl" revision="miuicam" />
+	
 
 
 </manifest> 
