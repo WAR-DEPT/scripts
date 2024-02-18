@@ -16,7 +16,7 @@
     <project path="vendor/xiaomi/miuicamera" name="userariii/vendor-xiaomi-miuicamera" remote="gl" revision="miuicam" />
 
 
-    <project path="prebuilts/clang/host/linux-x86/clang-14.0" name="Panchajanya1999/azure-clang" remote="gl" revision="main" /
+    <project path="prebuilts/clang/host/linux-x86/clang-14.0" name="Panchajanya1999/azure-clang" remote="gl" revision="main" />
 
 </manifest> 
 
