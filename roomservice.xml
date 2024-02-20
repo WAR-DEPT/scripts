@@ -6,15 +6,13 @@
 	<!-- Trees -->
 	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote="gh" revision="14.0" />
 	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/android_vendor_xiaomi_miatoll" remote="gh" revision="14.0" />
-	<project path="kernel/xiaomi/miatoll" name="WAR-DEPT/Red_kernel_xiaomi_sm6250" remote="gh" revision="RedCherry+" />
+	<project path="kernel/xiaomi/miatoll" name="WAR-DEPT/android_kernel_xiaomi_sm6250" remote="gh" revision="14.0" />
 
 	<!-- Hardware  -->
         <project path="hardware/sony/timekeep"  name="LineageOS/android_hardware_sony_timekeep" remote="gh" revision="lineage-21" />
 
     <project path="vendor/xiaomi/miuicamera" name="userariii/vendor-xiaomi-miuicamera" remote="gl" revision="miuicam" />
 
-
-    <project path="prebuilts/clang/host/linux-x86/clang-14.0" name="Panchajanya1999/azure-clang" remote="gh" revision="main" />
 
 </manifest> 
 
