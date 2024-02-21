@@ -4,14 +4,11 @@
 	<remote name="gh" fetch="https://github.com" />
 	
 	<!-- Trees -->
-	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote="gh" revision="droidx" />
-	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote="gh" revision="14.0" />
-	<project path="kernel/xiaomi/miatoll" name="WAR-DEPT/android_kernel_xiaomi_sm6250" remote="gh" revision="14.0" />
+	<project path="device/asus/Z01KD_1" name="WAR-DEPT/device_asus_Z01KD_1" remote="gh" revision="" />
+	<project path="vendor/asus/Z01KD_1" name="WAR-DEPT/vendor_asus_Z01KD_1" remote="gh" revision="" />
+	<project path="kernel/asus/Z01KD" name="WAR-DEPT/kernel_asus_Z01KD" remote="gh" revision="" />
 
-	<!-- Hardware  -->
-        <project path="hardware/sony/timekeep"  name="LineageOS/android_hardware_sony_timekeep" remote="gh" revision="lineage-21" />
 
-       
 
         
 
