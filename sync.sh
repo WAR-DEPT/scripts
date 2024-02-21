@@ -6,5 +6,5 @@ repo sync -c --no-clone-bundle --no-tags --optimized-fetch --prune --force-sync 
 source  build/envsetup.sh
 
 
-lunch droidxui_miatoll-userdebug
+lunch lineage_Z01KD_1-userdebug
 m bacon
