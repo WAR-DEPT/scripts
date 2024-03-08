@@ -13,7 +13,7 @@
 	<!-- Hardware  -->
         <project path="device/xiaomi/extras"  name="ArrowOS-Devices/android_device_xiaomi_extras" remote="gh" revision="arrow-12.0" />
         <project path="vendor/xiaomi/miuicamera" name="userariii/vendor-xiaomi-miuicamera" remote="gl" revision="miuicam" />
-        <project path="hardware_xiaomi"  name="LineageOS/android_hardware_xiaomi" remote="gh" revision="lineage-21" />
+        <project path="hardware_xiaomi"  name="ArrowOS-Devices/android_hardware_xiaomi" remote="gh" revision="arrow-12.0" />
 
 	<!-- clang  -->
         <project path="prebuilts/clang/host/linux-x86/clang-r437112b" name="arrowos-project/android_prebuilts_clang_host_linux-x86_clang-r437112b" remote="gl" revision="master" /> 
