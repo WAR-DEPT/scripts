@@ -6,4 +6,4 @@ source build/envsetup.sh
 
 
 lunch blackiron_miatoll-userdebug
-mka bacon
+ mka blackiron
