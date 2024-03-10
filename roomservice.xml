@@ -4,19 +4,14 @@
 	<remote name="gl" fetch="https://gitlab.com" />
 	
 	<!-- Trees -->
-	<project path="device/xiaomi/miatoll" name="WAR-DEPT/android_device_xiaomi_miatoll" remote="gh" revision="14" />
-	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/android_vendor_xiaomi_miatoll" remote="gh" revision="14" />
-        <project path="device/xiaomi/sm6250-common" name="WAR-DEPT/android_device_xiaomi_sm6250-common" remote="gh" revision="14" />
-	<project path="vendor/xiaomi/sm6250-common" name="WAR-DEPT/android_vendor_xiaomi_sm6250-common" remote="gh" revision="14" />
+	<project path="device/xiaomi/miatoll" name="WAR-DEPT/android_device_xiaomi_miatoll" remote="gh" revision="pixy 14" />
+	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/android_vendor_xiaomi_miatoll" remote="gh" revision="pixy14" />
 	<project path="kernel/xiaomi/sm6250" name="Xiaomi-SD720G-Devices/android_kernel_xiaomi_sm6250" remote="gh" revision="RedCherry+" />
 
 	<!-- Hardware  -->
-        <project path="device/xiaomi/extras"  name="ArrowOS-Devices/android_device_xiaomi_extras" remote="gh" revision="arrow-12.0" />
         <project path="vendor/xiaomi/miuicamera" name="userariii/vendor-xiaomi-miuicamera" remote="gl" revision="miuicam" />
         <project path="hardware_xiaomi"  name="ArrowOS-Devices/android_hardware_xiaomi" remote="gh" revision="arrow-12.0" />
 
-	<!-- clang  -->
-        <project path="prebuilts/clang/host/linux-x86/clang-r437112b" name="arrowos-project/android_prebuilts_clang_host_linux-x86_clang-r437112b" remote="gl" revision="master" /> 
 
 </manifest> 
 
