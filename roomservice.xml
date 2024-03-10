@@ -13,7 +13,7 @@
 	<!-- Hardware  -->
         <project path="vendor/xiaomi/miuicamera" name="rayavanindra/vendor_xiaomi_miuicamera" remote="gl" revision="fourteen" />
         
-     <project path="hardware_xiaomi"  name="PixysOS-Devices/hardware_xiaomi" remote="gh" revision="fourteen" />
+     <project path="hardware/xiaomi"  name="PixysOS-Devices/hardware_xiaomi" remote="gh" revision="fourteen" />
 
 
 
