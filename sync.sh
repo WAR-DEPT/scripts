@@ -5,5 +5,5 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 source build/envsetup.sh
 
 
-lunch aosp_miatoll-userdebug
+lunch droidx_miatoll-userdebug
  m bacon
