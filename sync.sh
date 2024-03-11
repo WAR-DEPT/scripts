@@ -11,8 +11,8 @@ source scripts/fixes.sh
 #mka derp
 #lunch derp_us997-userdebug
 #mka derp
-lunch afterlife_miatoll-userdebug
-m afterlife -j$
+lunch lineage_miatoll-userdebug
+m bacon 
 
 
 
