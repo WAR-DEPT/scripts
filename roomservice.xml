@@ -10,4 +10,4 @@
         <project path="kernel/xiaomi/miatoll" name="LineageOS/android_kernel_xiaomi_sm6250" remote="gh" revision="lineage-19.1" />
 	
 
-<manifest/>
+</manifest>
