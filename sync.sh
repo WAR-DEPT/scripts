@@ -6,5 +6,5 @@ repo sync -c --no-clone-bundle --no-tags --optimized-fetch --prune --force-sync 
 source  build/envsetup.sh
 
 
-lunch lineage_Z01KD_1-userdebug
+lunch lineage_miatoll-userdebug
 m bacon
