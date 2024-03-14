@@ -7,8 +7,7 @@
 	<!-- Trees -->
 	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote="gh" revision="11" />
 	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote="gh" revision="11" />
-
-	<project path="kernel/xiaomi/miatoll" name="Demon000/kernel_xiaomi_sm6250" remote="gh" revision="lineage-18.0" />
+        <project path="kernel/xiaomi/miatoll" name="LineageOS/android_kernel_xiaomi_sm6250" remote="gh" revision="lineage-10.1" />
 	
 
 <manifest/>
