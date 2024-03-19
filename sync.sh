@@ -2,7 +2,7 @@
 
 
 rm out/target/product/*/*.zip
-repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+/opt/crave/resync.sh
 source  build/envsetup.sh
 
 
