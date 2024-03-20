@@ -1,5 +1,6 @@
 #!/bin/bash
-
+ 
+rm -rf prebuilt 
 
 rm out/target/product/*/*.zip
 source  build/envsetup.sh
