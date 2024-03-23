@@ -10,4 +10,4 @@
         <project path="kernel/xiaomi/miatoll" name="mboudr35/android_kernel_asus_ze554kl" remote="gh" revision="master" />
 	
 
-</manifest>
+<manifest/>
