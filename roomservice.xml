@@ -5,9 +5,9 @@
 	
 	
 	<!-- Trees -->
-	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote="gh" revision="12-curtana" />
-	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote="gh" revision="12-curtana" />
-        <project path="kernel/xiaomi/miatoll" name="LineageOS/android_kernel_xiaomi_sm6250" remote="gh" revision="lineage-19.1" />
+	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_asus_Z01KD_1" remote="gh" revision="main" />
+	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_asus_Z01KD_1" remote="gh" revision="main" />
+        <project path="kernel/xiaomi/miatoll" name="mboudr35/android_kernel_asus_ze554kl" remote="gh" revision="master" />
 	
 
 </manifest>
