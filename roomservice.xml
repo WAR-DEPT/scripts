@@ -5,8 +5,8 @@
 	
 	
 	<!-- Trees -->
-	<project path="device/asus/croissant" name="WAR-DEPT/device_asus_Z01KD_1" remote="gh" revision="main" />
-	<project path="vendor/asus/croissant" name="WAR-DEPT/vendor_asus_Z01KD_1" remote="gh" revision="main" />
+	<project path="device/asus/croissant" name="WAR-DEPT/device_asus_croissant" remote="gh" revision="main" />
+	<project path="vendor/asus/croissant" name="WAR-DEPT/vendor_asus_croissant" remote="gh" revision="main" />
         <project path="kernel/asus/croissant" name="mboudr35/android_kernel_asus_ze554kl" remote="gh" revision="master" />
 	
 
