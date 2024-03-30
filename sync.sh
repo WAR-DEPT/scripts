@@ -1,4 +1,6 @@
 #!/bin/bash
+
+rm -rf prebuilts 
 /opt/crave/resync.sh
 
 rm out/target/product/*/*.zip
