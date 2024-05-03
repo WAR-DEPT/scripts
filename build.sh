@@ -2,5 +2,5 @@
 source scripts/sync.sh
 rm -rf out/target/product/*
 
-brunch croissant 
+brunch Z01KD_1
 
