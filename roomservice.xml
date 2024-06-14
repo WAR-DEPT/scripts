@@ -7,5 +7,7 @@
 	<project path="device/xiaomi/miatoll" name="WAR-DEPT/miatoll" remote="gh" revision="main" />		
 	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor-miatoll" remote="gh" revision="main" />
 	<project path="vendor/xiaomi/miuicamera" name="rayavanindra/vendor_xiaomi_miuicamera" remote="gl" revision="fourteen" />
-
+        <project path="vendor/gapps" name="MindTheGapps/vendor_gapps" remote="gl" revision="upsilon" /> 
+	<project path="kernel/xiaomi/miatoll" name="clarencelol/kernel_xiaomi_sm6250" remote="gh" revision="kinesis-v29" />
+	
 </manifest>
