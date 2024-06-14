@@ -4,8 +4,8 @@
 	<remote name="gl" fetch="https://gitlab.com" />
 	
 	<!-- Trees -->
-	<project path="device/xiaomi/miatoll" name="WAR-DEPT/miatoll" remote="gh" revision="14" />		
-	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor-miatoll" remote="gh" revision="14" />
+	<project path="device/xiaomi/miatoll" name="WAR-DEPT/miatoll" remote="gh" revision="main" />		
+	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor-miatoll" remote="gh" revision="main" />
 	<project path="vendor/xiaomi/miuicamera" name="rayavanindra/vendor_xiaomi_miuicamera" remote="gl" revision="fourteen" />
 
 </manifest>
