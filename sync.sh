@@ -7,3 +7,4 @@ source build/envsetup.sh
 
 
 riseup miatoll userdebug
+rise b
