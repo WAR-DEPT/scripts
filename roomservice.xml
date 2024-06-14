@@ -4,18 +4,8 @@
 	<remote name="gl" fetch="https://gitlab.com" />
 	
 	<!-- Trees -->
-	<project path="device/xiaomi/miatoll" name="WAR-DEPT/android_device_xiaomi_miatoll" remote="gh" revision="pixy14" />
+	<project path="device/xiaomi/miatoll" name="WAR-DEPT/miatoll" remote="gh" revision="14" />		
+	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor-miatoll" remote="gh" revision="14" />
+	<project path="vendor/xiaomi/miuicamera" name="rayavanindra/vendor_xiaomi_miuicamera" remote="gl" revision="fourteen" />
 
-	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/android_vendor_xiaomi_miatoll" remote="gh" revision="pixy14" />
-
-	<project path="kernel/xiaomi/sm6250" name="PixysOS-Devices/kernel_xiaomi_sm6250" remote="gh" revision="fourteen" />
-
-	<!-- Hardware  -->
-        <project path="vendor/xiaomi/miuicamera" name="rayavanindra/vendor_xiaomi_miuicamera" remote="gl" revision="fourteen" />
-        
-     <project path="hardware/xiaomi"  name="PixysOS-Devices/hardware_xiaomi" remote="gh" revision="fourteen" />
-
-
-
-</manifest> 
-
+</manifest>
