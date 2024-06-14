@@ -9,5 +9,5 @@
 	<project path="vendor/xiaomi/miuicamera" name="rayavanindra/vendor_xiaomi_miuicamera" remote="gl" revision="fourteen" />
         <project path="vendor/gapps" name="MindTheGapps/vendor_gapps" remote="gl" revision="upsilon" /> 
 	<project path="kernel/xiaomi/miatoll" name="clarencelol/kernel_xiaomi_sm6250" remote="gh" revision="kinesis-v29" />
-	
+	<project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="gh" revision="lineage-21"
 </manifest>
