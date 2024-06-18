@@ -1,7 +1,7 @@
 #!/bin/bash
 
+rm -rf vendor/gapps 
 
-rm -rf prebuilts/clang/host/linux-x86
 
 /opt/crave/resync.sh
 
